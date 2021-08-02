@@ -1,14 +1,14 @@
 ### Oie ! eu sou o @jovemm0nge
 
 - 📫 Sou um estudante de Analise e Desenvolvimento de Sistemas
- <img align="right" alt="gif" src="https://media.giphy.com/media/PSKAppO2LH56w/giphy.gif">
+ <img align="right" alt="gif" src="https://media.giphy.com/media/WJjLyXCVvro2I/giphy.gif">
  
  <div>
   <a href="https://github.com/jovemm0nge">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jovemm0nge&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jovemm0nge&layout=compact&langs_count=16&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jovemm0nge&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <!-- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jovemm0nge&layout=compact&langs_count=16&theme=radical"/> !-->
 </div>
-
+  
  <div> 
   
   <a href="https://instagram.com/_m0nge" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a><a href="https://www.linkedin.com/in/gabrielarthurtonholodecampos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><a href="https://steamcommunity.com/id/jovemm0nge/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a> 
