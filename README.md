@@ -2,6 +2,8 @@
 
 
 - 📫 Sou um estudante de Analise e Desenvolvimento de Sistemas
+- 🧾 Técnico em Tecnologia da Informação
+- 📚Java, HTML, PHP, MySql, Css, Javascript, C# e Python
  
  <div>
   <a href="https://github.com/jovemm0nge">
