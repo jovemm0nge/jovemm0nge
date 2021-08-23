@@ -2,13 +2,14 @@
 
 <img class="profile-background-image__image relative
             full-width full-height" id="profile-background-image-target-image" alt="Imagem de fundo" src="https://media-exp1.licdn.com/dms/image/C5616AQHD-ylhKhHr4w/profile-displaybackgroundimage-shrink_200_800/0/1628784550049?e=1635379200&amp;v=beta&amp;t=-oJEkgjixlvN9m-L6YixjJZkULxwRhif5thqIMNDWgc" style="">
+
 <hr>
 - 📫 Sou um estudante de Analise e Desenvolvimento de Sistemas <br>
 - 🧾 Técnico em Tecnologia da Informação <br>
-- 📚Java, HTML, PHP, MySql, Css, Javascript, C# e Python <br>
  <hr>
  
 <div>
+  <h2>Linguagens:</h2>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -24,9 +25,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jovemm0nge&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> 
 </div>
  
+  <hr>
  <h3> Minhas Redes Sociais:</h3>
  <div> 
   
   <a href="https://instagram.com/_m0nge" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a><a href="https://www.linkedin.com/in/gabrielarthurtonholodecampos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><a href="https://steamcommunity.com/id/jovemm0nge/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a> 
+             
+  </div>
   
  
