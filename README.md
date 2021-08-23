@@ -1,4 +1,4 @@
-<h2> Oie Bem-vindo ao meu Git! O sou o »» Jovemm0nge  «« </h2>
+<h2> Oie Bem-vindo ao meu Git! </h2>
 
 <img class="profile-background-image__image relative
             full-width full-height" id="profile-background-image-target-image" alt="Imagem de fundo" src="https://media-exp1.licdn.com/dms/image/C5616AQHD-ylhKhHr4w/profile-displaybackgroundimage-shrink_200_800/0/1628784550049?e=1635379200&amp;v=beta&amp;t=-oJEkgjixlvN9m-L6YixjJZkULxwRhif5thqIMNDWgc" style="">
