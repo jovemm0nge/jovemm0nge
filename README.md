@@ -1,12 +1,24 @@
-<h2> Oie Bem-vindo ao meu Git! </h2>
+<h2> Oie Bem-vindo ao meu Git! <img src="https://img.shields.io/github/followers/{jovemm0nge}.svg?style=social&label=Follow&maxAge=2592000"></h2>
 
 <img class="profile-background-image__image relative
             full-width full-height" id="profile-background-image-target-image" alt="Imagem de fundo" src="https://media-exp1.licdn.com/dms/image/C5616AQHD-ylhKhHr4w/profile-displaybackgroundimage-shrink_200_800/0/1628784550049?e=1635379200&amp;v=beta&amp;t=-oJEkgjixlvN9m-L6YixjJZkULxwRhif5thqIMNDWgc" style="">
-
-- 📫 Sou um estudante de Analise e Desenvolvimento de Sistemas
-- 🧾 Técnico em Tecnologia da Informação
-- 📚Java, HTML, PHP, MySql, Css, Javascript, C# e Python
+<hr>
+- 📫 Sou um estudante de Analise e Desenvolvimento de Sistemas <br>
+- 🧾 Técnico em Tecnologia da Informação <br>
+- 📚Java, HTML, PHP, MySql, Css, Javascript, C# e Python <br>
+ <hr>
  
+<div>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>                  
+<div>
+            
  <div>
   <a href="https://github.com/jovemm0nge">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jovemm0nge&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> 
