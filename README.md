@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>                  
 <div>
-            
+            <br>
  <div>
   <a href="https://github.com/jovemm0nge">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jovemm0nge&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> 
