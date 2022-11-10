@@ -2,10 +2,10 @@
 
 
 
-<img class="profile-background-image__image relative
+<!--<img class="profile-background-image__image relative
             full-width full-height" id="profile-background-image-target-image" alt="Imagem de fundo" src="https://media-exp1.licdn.com/dms/image/C5616AQHD-ylhKhHr4w/profile-displaybackgroundimage-shrink_350_1400/0/1628784550049?e=1642032000&v=beta&t=V9sztMAAVj_4y-oEeXBdp7SSVJkCIzxAXksS-ddcLQk" style="">
 
-
+-->
 - 📫 Estudante de Analise e Desenvolvimento de Sistemas <br>
 - 🧾 Técnico em Tecnologia da Informação <br>
  
