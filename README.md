@@ -1,8 +1,10 @@
-<h2> Oie Bem-vindo ao meu Git! <img src="https://img.shields.io/github/followers/jovemm0nge.svg?style=social&label=Follow&maxAge=2000000000"></h2><p> <a href="https://gcdeveloper.netlify.app/"> 🚩 Clique aqui para entrar no meu Site ! 🚩 </a> <a href="https://discord.gg/XR6PdAue9Z">👍 Meu Discord Server DSC (Developer Study Community) 👍 </a></p>
-
-
 <img class="profile-background-image__image relative
             full-width full-height" id="profile-background-image-target-image" alt="Imagem de fundo" src="https://media.licdn.com/dms/image/D4D16AQG0JuYS1hyY8w/profile-displaybackgroundimage-shrink_350_1400/0/1681350677244?e=1686787200&amp;v=beta&amp;t=27IRl8j4DBjdTd62SMbKvEZGlgRc1-Lt_8Y--92Jy4U" style="left:0px;top:0px;">
+
+
+
+<h2> Oie Bem-vindo ao meu Git! <img src="https://img.shields.io/github/followers/jovemm0nge.svg?style=social&label=Follow&maxAge=2000000000"></h2><p> <a href="https://gcdeveloper.netlify.app/"> 🚩 Clique aqui para entrar no meu Site ! 🚩 </a> <a href="https://discord.gg/XR6PdAue9Z">👍 Meu Discord Server DSC (Developer Study Community) 👍 </a></p>
+
 
 
 -->
