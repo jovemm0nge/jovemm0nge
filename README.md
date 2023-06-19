@@ -1,5 +1,5 @@
 <img class="profile-background-image__image relative
-            full-width full-height" id="profile-background-image-target-image" alt="Imagem de fundo" src="https://media.licdn.com/dms/image/D4D16AQG0JuYS1hyY8w/profile-displaybackgroundimage-shrink_350_1400/0/1681350677244?e=1686787200&amp;v=beta&amp;t=27IRl8j4DBjdTd62SMbKvEZGlgRc1-Lt_8Y--92Jy4U" style="left:0px;top:0px;">
+            full-width full-height" id="profile-background-image-target-image" alt="Imagem de fundo" src="https://media.licdn.com/dms/image/D4D16AQG0JuYS1hyY8w/profile-displaybackgroundimage-shrink_350_1400/0/1681350677244?e=1692835200&v=beta&t=65CZtNSYoPfeF7MBeHrgnPPH6Qrm5wQxZ55wWJdl18w" style="left:0px;top:0px;">
 
 
 
