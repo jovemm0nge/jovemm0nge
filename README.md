@@ -24,12 +24,12 @@
   # Conhecimentos e Habilidades
 
   ### Linguagens
-  <p align="center">
+  <p align="">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,ts" />
   </a>           
 </p>  
- <p align="center">
+ <p align="">
   <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=angular,react" />
   </a>           
@@ -37,7 +37,7 @@
 
 ### Banco de dados
 
-  <p align="center">
+  <p align="">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postgresql,mysql" />
   </a>
@@ -45,7 +45,7 @@
 
 ### Ferramentas
 
-  <p align="center">
+  <p align="">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,visualstudiocode" />
   </a>
