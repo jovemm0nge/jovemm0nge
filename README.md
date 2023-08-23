@@ -20,13 +20,40 @@
  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jovemm0nge&show_icons=true&theme=transparent)
  </div> <br>
   
- <h2> Minhas Redes Sociais:</h2>
  
- <div> 
-  
-  <a href="https://instagram.com/_m0nge" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a><a href="https://www.linkedin.com/in/gabrielarthurtonholodecampos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><a href="https://steamcommunity.com/id/jovemm0nge/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a> 
-             
-  </div>
+  # Conhecimentos e Habilidades
+
+  ### Linguagens
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,ts" />
+  </a>           
+</p>  
+ <p align="center">
+  <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=angular,react" />
+  </a>           
+</p>  
+
+### Banco de dados
+
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgresql,mysql" />
+  </a>
+</p> 
+
+### Ferramentas
+
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,visualstudiocode" />
+  </a>
+</p> 
+
+
+
+
 <div>
  <h3><p align="center"> Visitas ao Perfil: </p><h3>
  <p align="center"><img align="center" src="https://profile-counter.glitch.me/jovemm0nge/count.svg" /></p>
