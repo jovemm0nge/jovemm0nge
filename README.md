@@ -24,6 +24,7 @@
   # Conhecimentos e Habilidades
 
   ### Linguagens
+  
   <p align="">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,cs,js,ts,java,php" />
@@ -31,7 +32,7 @@
 </p>  
  <p align="">
   <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=angular,react, reactnative" />
+      <img src="https://skillicons.dev/icons?i=angular,react,tailwindcss" />
   </a>           
 </p>  
 
