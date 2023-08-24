@@ -52,8 +52,12 @@
 </p> 
 
 
+## Meus Repositórios Favoritos
+<div align="center">
+            
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=h4yat0&repo=VetConnect_TCC)](https://github.com/h4yat0/VetConnect_TCC)
 
-
+</div>
 <div>
  <h3><p align="center"> Visitas ao Perfil: </p><h3>
  <p align="center"><img align="center" src="https://profile-counter.glitch.me/jovemm0nge/count.svg" /></p>
