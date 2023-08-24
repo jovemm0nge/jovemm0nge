@@ -47,7 +47,7 @@
 
   <p align="">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,visualstudio,vscode,netlify" />
+    <img src="https://skillicons.dev/icons?i=git,visualstudio,vscode,netlify,figma" />
   </a>
 </p> 
 
