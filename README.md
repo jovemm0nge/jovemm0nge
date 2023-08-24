@@ -26,12 +26,12 @@
   ### Linguagens
   <p align="">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,ts" />
+    <img src="https://skillicons.dev/icons?i=html,css,cs,js,ts,java,php" />
   </a>           
 </p>  
  <p align="">
   <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=angular,react" />
+      <img src="https://skillicons.dev/icons?i=angular,react, reactnative" />
   </a>           
 </p>  
 
@@ -47,7 +47,7 @@
 
   <p align="">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,visualstudiocode" />
+    <img src="https://skillicons.dev/icons?i=git,visualstudio,vscode,netlify" />
   </a>
 </p> 
 
