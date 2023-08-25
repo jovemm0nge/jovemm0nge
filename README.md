@@ -8,7 +8,7 @@
 
 
 
-- 📫 Estudante de Analise e Desenvolvimento de Sistemas <br>
+- 📫 Analista e Desenvolvedor de Sistemas <br>
 - 🧾 Técnico em Tecnologia da Informação <br>
  
  
