@@ -56,7 +56,8 @@
 ## Meus Repositórios Favoritos
 <div align="center">
             
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=h4yat0&repo=VetConnect_TCC)](https://github.com/h4yat0/VetConnect_TCC)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=h4yat0&repo=VetConnect_TCC)](https://github.com/h4yat0/VetConnect_TCC) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jovemm0nge&repo=Yourlist_app)](https://github.com/jovemm0nge/Yourlist_app)
+
 
 </div>
 <div>
