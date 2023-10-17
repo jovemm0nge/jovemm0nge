@@ -20,6 +20,12 @@
  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jovemm0nge&show_icons=true&theme=transparent)
  </div> <br>
   
+## Meus Repositórios Favoritos
+<div align="center">      
+            
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=h4yat0&repo=VetConnect_TCC)](https://github.com/h4yat0/VetConnect_TCC) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jovemm0nge&repo=YourList-App)](https://github.com/jovemm0nge/YourList-App) 
+
+</div>
  
   # Conhecimentos e Habilidades
 
@@ -52,14 +58,6 @@
   </a>
 </p> 
 
-
-## Meus Repositórios Favoritos
-<div align="center">
-            
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=h4yat0&repo=VetConnect_TCC)](https://github.com/h4yat0/VetConnect_TCC) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jovemm0nge&repo=Yourlist_app)](https://github.com/jovemm0nge/Yourlist_app)
-
-
-</div>
 <div>
  <h3><p align="center"> Visitas ao Perfil: </p><h3>
  <p align="center"><img align="center" src="https://profile-counter.glitch.me/jovemm0nge/count.svg" /></p>
