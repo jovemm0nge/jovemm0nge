@@ -10,9 +10,16 @@
 
 - 📫 Analista e Desenvolvedor de Sistemas <br>
 - 🧾 Técnico em Tecnologia da Informação <br>
- 
- 
+
       
+## Status
+
+#### Codewars
+<a href="https://www.codewars.com/users/jovemm0nge/badges/large" target="_blank">
+   <img src="https://www.codewars.com/users/jovemm0nge/badges/large" />
+ </a>
+
+#### Status
  <div align="center">
           <br>
   <a href="https://github.com/jovemm0nge">
