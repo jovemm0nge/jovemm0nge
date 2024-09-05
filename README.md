@@ -3,7 +3,7 @@
 
 
 
-<h2> Oie Bem-vindo ao meu Git! <img src="https://img.shields.io/github/followers/jovemm0nge.svg?style=social&label=Follow&maxAge=2000000000"></h2><p> <a href="https://gcdeveloper.netlify.app/"> 🚩 Clique aqui para entrar no meu Site ! 🚩 </a> <a href="https://discord.gg/XR6PdAue9Z">👍 Meu Discord Server DSC (Developer Study Community) 👍 </a></p>
+<h2> Oie Bem-vindo ao meu Git! <img src="https://img.shields.io/github/followers/jovemm0nge.svg?style=social&label=Follow&maxAge=2000000000"></h2>
 
 - 📫 Analista e Desenvolvedor de Sistemas 
 - 🧾 Técnico em Tecnologia da Informação
