@@ -8,7 +8,7 @@
 - 📫 Analista e Desenvolvedor de Sistemas 
 - 🧾 Técnico em Tecnologia da Informação
 - 💪 Desenvolvedor Fullstack - Riskex
-- Veja minhas extenções VSCODE: <a href="https://www.codewars.com/users/jovemm0nge/badges/large" target="_blank">Clique aqui</a>
+- Veja minhas extenções VSCODE: <a href="https://marketplace.visualstudio.com/items?itemName=M0NGE.m0nge-react-extension-pack&ssr=false#review-details" target="_blank">Clique aqui</a>
       
 ## Status
 
