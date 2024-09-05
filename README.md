@@ -8,7 +8,7 @@
 - 📫 Analista e Desenvolvedor de Sistemas 
 - 🧾 Técnico em Tecnologia da Informação
 - 💪 Desenvolvedor Fullstack - Riskex
-- 💡  I make the <a href="https://github.com/cantinhoweb">Cantinho Web</a>
+- Veja minhas extenções VSCODE: <a href="https://www.codewars.com/users/jovemm0nge/badges/large" target="_blank">Clique aqui</a>
       
 ## Status
 
